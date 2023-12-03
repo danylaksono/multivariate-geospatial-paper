@@ -1,0 +1,24 @@
+Domain,Publication name,ISSN,e-ISSN,Publisher,Link,Indexed in,Type,Base search Query
+Geospatial,Cartographic Journal,0008-7041,1743-2774,Taylor and Francis,https://www.tandfonline.com/journals/ycaj20,Scopus,Journal,(TITLE-ABS-KEY(geospatial AND visualization) AND ISSN({issn})) AND (PUBYEAR AFT 2009 AND PUBYEAR BEF 2024)
+Geospatial,The Advances in Cartography and GIScience,2570-2084,-,Copernicus,https://www.advances-in-cartography-and-giscience-of-the-ica.net/,Copernicus,Conference,
+Geospatial,Transactions in GIS,1467-9671,1361-1682,Wiley,https://onlinelibrary.wiley.com/journal/14679671,Scopus,Journal,
+Geospatial,ISPRS International Journal of Geo-Information (IJGI),-, 2220-9964,MDPI,https://www.mdpi.com/journal/ijgi,Scopus,Journal,
+Geospatial,International Journal of Geographical Information Science (IJGIS),1365-8816,1365-8824,Taylor and Francis,https://www.tandfonline.com/toc/tgis20/current,Scopus,Journal,
+Geospatial,Cartography and Geographic Information Science,1523-0406,-,Taylor and Francis,https://www.tandfonline.com/toc/tcag20/current,Scopus,Journal,
+Geospatial,Cartographic Perspective,1048-9053,-,OJS,https://cartographicperspectives.org/index.php/journal,Scopus,Journal,
+Geospatial,International Journal of Cartography, 2372-9333, 2372-9341,Taylor and Francis,https://www.tandfonline.com/journals/tica20,Scopus,Journal,
+Geospatial,Journal of Spatial Information Science,1948-660X,-,OJS,https://josis.org/index.php/josis,Scopus,Journal,
+Geospatial,ACM SIGSpatial,1946-7729,-,ACM,https://dl.acm.org/sig/sigspatial,ACM/Scopus,Conference,CONF ( acm AND sigspatial )
+Geospatial,Association of Geographic Information Laboratories in Europe (AGILE),-,-,Copernicus,https://agile-gi.eu/conferences/proceedings,Copernicus,Conference,
+Geospatial,Geographical Information Science Research UK (GISRUK),-,-,Zenodo,https://zenodo.org/communities/gisruk2023?q=&l=list&p=1&s=10&sort=newest,Zenodo,Conference,
+Geospatial,Journal of Maps,1744-5647,-,Taylor and Francis,https://www.tandfonline.com/toc/tjom20/current,Scopus,Journal,
+Geospatial,International Journal of Digital Earth (IJDE),1753-8955,1753-8947,Taylor and Francis,https://www.tandfonline.com/journals/tjde20,Scopus,Journal,
+Geospatial,Cartographica,0317-7173,1911-9925,University of Toronto Press,https://www.utpjournals.press/loi/cart,Scopus,Journal,
+Information Vis,IEEEVis,"Query on existing collection (Isenberg, 2017 and Yoshizumi, 2020)",,,,,Journal,
+Information Vis,Proceedings of Human Factors in Computing,1062-9432,-,ACM,https://dl.acm.org/conference/chi,ACM/Scopus,Journal,CONF ( human AND factors AND in AND computing AND systems )
+Information Vis,EuroVIS,-,-,Eurographics,https://diglib.eg.org/handle/10.2312/392,Eurographics,Conference,
+Information Vis,IEEE Pacific Visualisation Symposium (PacificVIS),2165-8773,-,IEEE ,https://pacificvis.github.io/pvis2024/,IEEE/Scopus,Conference,
+Information Vis,IEEE Transactions on Visualization and Computer Graphics (TVCG),1077-2626,1941-0506,IEEE,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945,IEEE/Scopus,Journal,
+Information Vis, The Journal of Visualization and Interaction (JOVI),,,,,,Conference,
+Journal of Computational Geometry,,,1920180X,OJS,https://jocg.org/index.php/jocg,Scopus,Journal,
+Information Vis,Information Visualization Journal (IVI),,,SAGE,https://journals.sagepub.com/home/ivi,,Conference,

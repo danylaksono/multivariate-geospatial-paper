@@ -1,0 +1,5 @@
+,doi,title,authors,year,publicationName,url,citedby-count
+0,10.1109/TVCG.2019.2934807,A Comparison of Visualizations for Identifying Correlation over Space and Time,Peña-Araya V.,January 2020,IEEE Transactions on Visualization and Computer Graphics,https://api.elsevier.com/content/abstract/scopus_id/85075622013,16
+1,10.1109/TVCG.2017.2765330,Cartogram Visualization for Bivariate Geo-Statistical Data,Nusrat S.,1 October 2018,IEEE Transactions on Visualization and Computer Graphics,https://api.elsevier.com/content/abstract/scopus_id/85032432347,12
+2,10.1109/TVCG.2014.2346265,Attribute signatures: Dynamic visual summaries for analyzing multivariate geographical data,Turkay C.,31 December 2014,IEEE Transactions on Visualization and Computer Graphics,https://api.elsevier.com/content/abstract/scopus_id/84910037734,46
+3,10.1109/TVCG.2013.66,Bristle maps: A multivariate abstraction technique for geovisualization,Kim S.,2013,IEEE Transactions on Visualization and Computer Graphics,https://api.elsevier.com/content/abstract/scopus_id/84880819182,28
